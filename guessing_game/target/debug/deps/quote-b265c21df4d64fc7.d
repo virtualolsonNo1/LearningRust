@@ -1,0 +1,11 @@
+C:\Users\virtu\Downloads\WorkProjects\LearningRust\guessing_game\target\debug\deps\libquote-b265c21df4d64fc7.rmeta: C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src/lib.rs C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\ext.rs C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\format.rs C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\ident_fragment.rs C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\to_tokens.rs C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\runtime.rs C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\spanned.rs
+
+C:\Users\virtu\Downloads\WorkProjects\LearningRust\guessing_game\target\debug\deps\quote-b265c21df4d64fc7.d: C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src/lib.rs C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\ext.rs C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\format.rs C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\ident_fragment.rs C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\to_tokens.rs C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\runtime.rs C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\spanned.rs
+
+C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src/lib.rs:
+C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\ext.rs:
+C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\format.rs:
+C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\ident_fragment.rs:
+C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\to_tokens.rs:
+C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\runtime.rs:
+C:\Users\virtu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.37\src\spanned.rs:
